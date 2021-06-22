@@ -3,7 +3,7 @@ const theme = {
     text: "black",
     background: "#fff",
     primary: "rebeccapurple",
-    secondary: "#ff6347",
+    secondary: "gray",
   },
   fonts: {
     body: "sans-serif",
